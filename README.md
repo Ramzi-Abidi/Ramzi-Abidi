@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a software developer intern at DeepVolt.<br>👯 I’m looking to collaborate on web/mobile development projects.<br>🌱 I’m currently practising problem solving on leetcode and web/mobile development.<br>💬 Ask me about software devolopment<br>⚡ Fun fact => Life is a contest XD
+🔭 I’m currently a software developer intern at DeepVolt.<br>👯 I’m looking to collaborate on web/mobile development projects.<br>🌱 I love solving problems based on DSA on leetcode and web/mobile development.<br>💬 Ask me about software devolopment<br>⚡ Fun fact => Life is a contest XD
 
 
 ## 🌐 Socials:
