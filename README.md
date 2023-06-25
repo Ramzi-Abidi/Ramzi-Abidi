@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a full-stack developer developer at DeepVolt.<br>👯 I’m looking to collaborate on web/mobile development projects.<br>🌱 I love solving leetcode problems. <br> ⚡ I love React ! <br>💬 Ask me about software devolopment<br>⚡ Fun fact => Life is a contest XD
+🔭 I’m currently a full-stack developer at DeepVolt.<br>👯 I’m looking to collaborate on web/mobile development projects.<br>🌱 I love solving leetcode problems. <br> ⚡ I love React ! <br>💬 Ask me about software devolopment<br>⚡ Fun fact => Life is a contest XD
 
 
 ## 🌐 Socials:
