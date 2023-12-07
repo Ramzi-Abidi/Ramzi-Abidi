@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently a software engineer at DeepVolt and Master's student at Higher institute of computer science of Tunisia(ISI).<br>👯 I’m looking to collaborate on web/mobile development projects.<br>🌱 I love solving leetcode problems. <br>💬 Ask me about software development<br>⚡ Fun fact => Life is a contest XD
+🔭 I’m currently a software engineer at DeepVolt and Master's student.<br>👯 I’m looking to collaborate on web/mobile development projects.<br>🌱 I love solving leetcode problems. <br>💬 Ask me about software development<br>⚡ Fun fact => Life is a contest XD
 
 
 ## 🌐 Socials
