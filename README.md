@@ -59,7 +59,7 @@
 </div>
 
 ###
-<h3 align="left">🔥 All about me :</h3>
+<h3 align="left">🔥 Hobbies:</h3>
 <ul>
   <li> Programming </li>
   <li> Reading </li> 
