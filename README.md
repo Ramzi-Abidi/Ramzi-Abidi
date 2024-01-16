@@ -59,16 +59,21 @@
 </div>
 
 ###
-<!--
-<h3 align="left">🔥   My Stats :</h3>
--->
+<h3 align="left">🔥 All about me :</h3>
+<ul>
+  <li> Programming </li>
+  <li> Reading </li> 
+  <li> Anime </li>
+  <li> Football </li>
+  <li> MMA </li>
+</ul>
 ###
 <!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ramzi-Abidi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 -->
-![image](https://github.com/narutosstudent/narutosstudent/assets/49603590/ba1f5733-daeb-4ac5-9b08-66fe23bcdede)
+![goku1](https://github.com/Ramzi-Abidi/Ramzi-Abidi/assets/69228547/fbba1ed1-0d6c-4877-a923-d29ce4fdbfbe)
 ###
 <!--
 <div align="center">
