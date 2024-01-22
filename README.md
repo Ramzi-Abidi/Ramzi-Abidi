@@ -68,7 +68,8 @@
   <li> MMA </li>
 </ul>
 
-<div align="center">
+<h3 align="left">🔥 Stats:</h3>
+<div>
   <img src="https://streak-stats.demolab.com?user=Ramzi-Abidi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> <br /> <br /> <br />
 
