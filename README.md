@@ -14,19 +14,11 @@
 
 <h1 align="center">Hey there it's Ramzi👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+## 👩‍💻  About Me</h3>
 
 <p align="left">My name is Ramzi, I'm a software engineer and Master's student.<br><br>- 🔭 I’m working as software engineer at DeepVolt<br>- 📚 I'm currently learning DevOps and advanced software engineering topics.<br>- ⚡ In my free time I'd like to solve LeetCode problems.</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -54,8 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
-<h3 align="left">🔥 Hobbies:</h3>
+## 🔥 Hobbies:
 <ul>
   <li> Programming </li>
   <li> Reading </li> 
@@ -64,12 +55,13 @@
   <li> MMA </li>
 </ul>
 
-<h3 align="left">🔥 Stats:</h3>
+## Github stats:
 <div>
   <img src="https://streak-stats.demolab.com?user=Ramzi-Abidi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> <br /> <br /> <br />
+</div> <br /> <br />
 
-
+## LeetCode is a lifestyle! ([profile](https://leetcode.com/Abidi_Ramzi))
+[![Ramzi's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Abidi_Ramzi&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ###
 ![goku1](https://github.com/Ramzi-Abidi/Ramzi-Abidi/assets/69228547/fbba1ed1-0d6c-4877-a923-d29ce4fdbfbe)
