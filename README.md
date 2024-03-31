@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/Ramzi-Abidi/Ramzi-Abidi/assets/69228547/a470282c-812c-4c6e-8bf2-03d06c55a217" height="40" alt="postgres logo"  />
+  <img src="https://github.com/Ramzi-Abidi/Ramzi-Abidi/assets/69228547/cafacaf0-58e0-4a19-8c6f-0fae47771a22" height="40" alt="mongodb logo"  />
 </div>
 
 ## 🔥 Hobbies:
