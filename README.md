@@ -16,7 +16,7 @@
 
 ## 👩‍💻  About Me</h3>
 
-<p align="left">My name is Ramzi, I'm a software engineer and Master's student.<br><br>- 🔭 I’m working as software engineer at DeepVolt<br>- 📚 I'm currently learning advanced software engineering topics.<br>- ⚡ In my free time I'd like to solve LeetCode problems.</p>
+<p align="left">My name is Ramzi, I'm a software engineer and Master's student.<br><br>- 🔭 I’m working as software engineer at DeepVolt<br>- 📚 I'm currently learning advanced software engineering topics.<br>- ⚡ In my free time I'd like to build side projects and solve LeetCode problems.</p>
 
 ## 🛠 Language and tools</h3>
 
