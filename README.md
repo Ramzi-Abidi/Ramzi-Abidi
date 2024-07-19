@@ -66,7 +66,7 @@
 </div> <br /> <br />
 
 ## 🆙 LeetCode is a lifestyle! ([profile](https://leetcode.com/Abidi_Ramzi))
-[![Ramzi's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Abidi_Ramzi&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!--[![Ramzi's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Abidi_Ramzi&theme=dark)](https://github.com/KnlnKS/leetcode-stats)-->
 
 ###
 ![image](https://github.com/Ramzi-Abidi/Ramzi-Abidi/assets/69228547/a23b760f-8790-45b5-9cd0-2858e9692dd8)
