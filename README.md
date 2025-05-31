@@ -24,7 +24,7 @@
 
 ## 👩‍💻  About Me</h3>
 
-<p align="left">My name is Ramzi, I'm a software engineer and Master's student.<br><br>🔭 I’m working as software engineer at DeepVolt<br>📚 Currently learning advanced software engineering topics.<br>⚡ In my free time, I build side projects and take on freelance work to expand my skills </p>
+<p align="left">My name is Ramzi, I'm a software engineer and Master's student.<br><br>🔭 I’m working as software engineer at Jobflow GmbH<br>📚 Currently learning advanced software engineering topics.<br>⚡ In my free time, I build side projects and take on freelance work to expand my skills </p>
 
 ## 🛠 Language and tools</h3>
 
