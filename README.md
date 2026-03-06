@@ -1,30 +1,8 @@
-<!--<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
--->
-###
-
-<!--<div align="center">
-  <a href="https://www.linkedin.com/in/ramzi-abidi-335006210/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div> -->
-
-<p align="center">
-  <a href="mailto:ramziabidi.dev@gmail.com?subject=Olá%20Ramzi%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://www.facebook.com/ramzi.abidi.315865/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!--   <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="https://www.linkedin.com/in/ramzi-abidi-335006210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-</p>
-
-###
-
 <h1 align="center">Hey there it's Ramzi👋</h1>
 
 ## 👩‍💻  About Me</h3>
 
-<p align="left">My name is Ramzi, I'm a software engineer.<br><br>🔭 I’m working as software engineer at Jobflow GmbH<br>📚 Currently learning advanced software engineering topics.<br>⚡ In my free time, I build side projects and take on freelance work to expand my skills </p>
+<p align="left">My name is Ramzi, I'm a software engineer.<br><br>🔭 I’m working as software engineer at Jobflow GmbH<br>📚 Currently learning advanced software engineering topics.<br>⚡ In my free time, I build side projects and take on freelance work to expand my skills <br>📩 ramziabidi.dev@gmail.com </p>
 
 ## 🛠 Language and tools</h3>
 
