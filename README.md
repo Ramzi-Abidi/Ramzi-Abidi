@@ -1,6 +1,6 @@
 <h1 align="center">Hey there it's Ramzi👋</h1>
 
-## 👩‍💻  About Me</h3>
+## About Me</h3>
 
 <p align="left">My name is Ramzi, I'm a software engineer.<br><br>🔭 I’m working as software engineer at Jobflow GmbH<br>📚 Currently learning advanced software engineering topics.<br>⚡ In my free time, I build side projects and take on freelance work to expand my skills <br>📩 ramziabidi.dev@gmail.com </p>
 
