@@ -19,7 +19,7 @@
   <img src="https://streak-stats.demolab.com?user=Ramzi-Abidi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> <br /> <br />
 
-## 🆙 LeetCode was my lifestyle! ([profile](https://leetcode.com/Abidi_Ramzi))
+## 🆙 LeetCode for fun! ([profile](https://leetcode.com/Abidi_Ramzi))
 <!--[![Ramzi's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Abidi_Ramzi&theme=dark)](https://github.com/KnlnKS/leetcode-stats)-->
 
 
